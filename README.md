@@ -12,4 +12,5 @@ Barcelona, Spain
 * [LinkedIn](https://linkedin.com/in/julianlux)
 * [Twitter](https://x.com/julianlux)
 ### GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianlux&show_icons=true&theme=radical)
